@@ -1,5 +1,3 @@
-all_symbols = []
-repetition = []
 dict = {}
 with open('ass2.txt', encoding='utf-8') as t:
     txt = t.read()
